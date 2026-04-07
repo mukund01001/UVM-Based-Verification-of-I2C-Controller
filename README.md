@@ -264,11 +264,19 @@ This confirms that the design is hardware realizable and FPGA-compatible.
 
 ## Reports
 
-Detailed documentation is available in the `Reports/` folder:
-- Full Project Report
-- I2C Protocol Explanation
-- UVM Methodology Explanation
+This project is supported by detailed technical documentation covering design, protocol, and verification methodology:
 
+- **Full Project Report**  
+  Comprehensive documentation including design, UVM architecture, simulation, waveform analysis, and synthesis results  
+  → [View Report](reports/i2c_vlsi_testing_and_verification_final_report.pdf)
+
+- **I2C Protocol Explanation**  
+  In-depth explanation of I2C communication, timing, and signal behavior  
+  → [View Document](reports/I2c_Protocol_explanation.pdf)
+
+- **UVM Methodology Explanation**  
+  Detailed explanation of UVM architecture, components, and verification flow  
+  → [View Document](reports/uvm_explanation.pdf)
 ---
 
 ## Authors
