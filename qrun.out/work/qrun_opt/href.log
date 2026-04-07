@@ -1,0 +1,5 @@
+BEGIN 3:i2c_if:fast__1:work
+    tb_clk :  1:i2c_uvm_pkg:fast:work
+    sda :  1:i2c_uvm_pkg:fast:work
+    scl :  1:i2c_uvm_pkg:fast:work
+END 
