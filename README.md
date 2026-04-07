@@ -1,5 +1,11 @@
 # UVM-Based Verification of I2C Controller
+## Project Highlights
 
+- Designed I2C Master Controller using FSM-based RTL
+- Built complete UVM verification environment
+- Verified protocol correctness using scoreboard
+- Performed waveform-level validation of I2C signals
+- Synthesized design in Vivado (RTL → Gate-level)
 ## Overview
 
 This project presents a complete design and verification flow for the I2C (Inter-Integrated Circuit) protocol using SystemVerilog and Universal Verification Methodology (UVM). It demonstrates functional correctness at the transaction level, signal-level timing correctness through waveform analysis, and hardware realizability through RTL synthesis in Vivado.
